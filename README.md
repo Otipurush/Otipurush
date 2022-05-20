@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Otipurush
+- 👀 I’m interested in Bug Bounty
+- 🌱 I’m currently learning Network Security and Web Development
+- 📫 How to reach me: otipurush@gmail.com
